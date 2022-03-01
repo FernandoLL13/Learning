@@ -1,2 +1,2 @@
 # Learning
-My progress
+My progress in Python
